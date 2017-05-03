@@ -237,11 +237,11 @@ class SMS
         return $this->response;
     }
 
-    //public function __debugInfo() {
-    //    return [
-    //        'response' => $this->response,
-    //        'hasError' => $this->hasError(),
-    //        'hasSuccess' => $this->hasSuccess(),
-    //    ];
-    //}
+    public function __debugInfo() {
+        return [
+            'response' => $this->response,
+            'hasError' => $this->hasError(),
+            'hasSuccess' => $this->hasSuccess(),
+        ];
+    }
 }
