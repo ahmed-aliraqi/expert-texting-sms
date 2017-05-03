@@ -1,5 +1,5 @@
 ## Introduction
-ExpertTexting REST API allows you to send text and unicode messages, read unread messages, check your account balance etc. ExpertTexting API is served over HTTPS. To ensure data privacy, unencrypted HTTP is not supported.
+ExpertTexting REST API for Laravel applications allows you to send text and unicode messages, read unread messages, check your account balance etc. ExpertTexting API is served over HTTPS. To ensure data privacy, unencrypted HTTP is not supported.
 
 ## Documentation 
 - Send message : https://www.experttexting.com/appv2/Documentation/Send .
